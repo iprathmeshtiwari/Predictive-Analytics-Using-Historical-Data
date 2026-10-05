@@ -1,6 +1,6 @@
 # 📊 Predictive Analytics Using Historical Data
 
-https://github.com/iprathmeshtiwari/Predictive-Analytics-Using-Historical-Data/tree/main/Predictive-Analytics-Using-Historical-Data/screenshot
+https://github.com/iprathmeshtiwari/Predictive-Analytics-Using-Historical-Data/blob/main/Screenshot%202026-10-05%20193106.png
 
 ## 📌 Project Overview
 
