@@ -1,5 +1,7 @@
 # 📊 Predictive Analytics Using Historical Data
 
+https://github.com/iprathmeshtiwari/Predictive-Analytics-Using-Historical-Data/tree/main/Predictive-Analytics-Using-Historical-Data/screenshot
+
 ## 📌 Project Overview
 
 **Predictive Analytics Using Historical Data** is a machine learning project designed to analyze historical retail sales data and predict future sales trends.
